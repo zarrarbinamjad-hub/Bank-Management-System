@@ -92,7 +92,7 @@ The `Customer` class represents a bank customer.
 
 ## 📸 Screenshot
 
-![Bank Management System Screenshot](screenshot.png)
+![Bank Management System Screenshot](Screenshot084132.png)
 
 ## 👨‍💻 Author
 
