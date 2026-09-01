@@ -88,7 +88,7 @@ The `Customer` class represents a bank customer.
 
 ## 🔗 Project Link
 
-[View Bank Management System on GitHub](YOUR_GITHUB_REPOSITORY_LINK)
+[View Bank Management System on GitHub](https://github.com/zarrarbinamjad-hub/Bank-Management-System)
 
 ## 📸 Screenshot
 
